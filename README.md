@@ -1,4 +1,4 @@
-# 北航场馆预约系统Python+Selenium自动化脚本
+# Python+Selenium自动化脚本
 
 An automatic Python script using selenium for the BUAA reservation system.
 为了给脚本设置一些使用门槛，此Readme文档将用英文撰写（我知道这难不倒CS学生）。
